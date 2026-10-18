@@ -1,0 +1,101 @@
+{
+  "biology": {
+    "kicker": "The living world",
+    "headline": "You are a very strange machine.",
+    "intro": "You heal cuts, turn food into movement and carry instructions for building another human. Biology is the science of how living things work, survive and change.",
+    "question": "A robot moves, uses energy and responds to its surroundings. So what makes you alive and the robot not?",
+    "idea": "Living things are made of cells. Inside those cells, chemical reactions keep them going. Organisms exchange materials with their surroundings, grow and reproduce across generations. Their inherited information influences how they develop. No single trick \u2014 like moving \u2014 is enough to define life.",
+    "use": "Biology helps you make sense of food, fitness, reproduction, ecosystems and claims about your body. It gives you better questions to ask when somebody says a product is \u201cnatural\u201d or promises to improve your health.",
+    "hooks": [
+      [
+        "Built-in repair crew",
+        "A cut can close because living cells respond, divide and rebuild tissue. A scratched tank cannot grow replacement armour."
+      ],
+      [
+        "Survival is a team sport",
+        "A predator depends on prey, plants and organisms recycling materials. Pull one thread and the whole food web can shift."
+      ],
+      [
+        "Instructions with variations",
+        "Inherited differences can help some organisms survive and reproduce. Over generations, populations can change."
+      ]
+    ],
+    "activity": "Draw a human, a tree and a robot. Give each arrows for what goes in and what comes out. Circle what they share, then argue about which differences actually matter. Paper and a pencil are enough.",
+    "twist": "A seed can sit still for months. Is it alive? What evidence would change your mind?",
+    "parent": "Look for cells and life processes, rather than \u201cit moves\u201d. Trees and dormant seeds expose that shortcut. A robot can imitate some life processes without being a cellular organism. Viruses are a useful later boundary case; you do not need to settle them today.",
+    "misconception": "Breathing and respiration are different: breathing moves air; respiration is the chemistry in cells that transfers energy from food.",
+    "science": "What observation would help distinguish something alive from something merely moving?",
+    "sources": [
+      {
+        "title": "DfE: KS3 biology and working scientifically",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      }
+    ]
+  },
+  "chemistry": {
+    "kicker": "The material world",
+    "headline": "Same atoms. Wildly different stuff.",
+    "intro": "Rusting armour, cooking food and burning fuel all involve matter changing. Chemistry asks what things are made of, how their atoms are arranged and what happens when they react.",
+    "question": "A steel tank rusts. Has some of its metal simply disappeared \u2014 or has something joined it?",
+    "idea": "Everything around you is made of atoms. Elements contain one type of atom; compounds have different types chemically joined. In an ordinary chemical reaction, atoms are rearranged into new substances. They are not created or destroyed, even when gases escape and the change looks mysterious.",
+    "use": "Chemistry helps explain cooking, cleaning, batteries, fuels and why materials fail. It helps you distinguish a change of shape or state from the formation of a new substance.",
+    "hooks": [
+      [
+        "Armour has an enemy: air",
+        "Iron reacts with oxygen in the presence of water to form rust. The corrosion can weaken the metal."
+      ],
+      [
+        "Why explosions are so sudden",
+        "Some reactions transfer energy and produce expanding gases very quickly. The rate matters as well as the amount of energy."
+      ],
+      [
+        "Materials built for a job",
+        "A ceramic mug, a polymer helmet shell and a metal pan behave differently because of their materials and structures."
+      ]
+    ],
+    "activity": "Use two colours of coins or paper circles as atoms. Build a few pretend molecules, then rearrange them into different groups without adding or removing any pieces. Count before and after. This models conservation of atoms, not which reactions are actually possible.",
+    "twist": "An ice cube melts. A piece of iron rusts. Which makes a new substance, and how could you tell?",
+    "parent": "Rust contains iron combined with oxygen and other components, so iron has not vanished. A retained rust sample includes material from the surroundings; flakes falling away can complicate a real weighing. Listen for \u201catoms rearrange\u201d and for a distinction between a new substance and a new state.",
+    "misconception": "Dissolving does not mean disappearing. Dissolved material is still present, even when you cannot see it.",
+    "science": "If a reaction seems to lose mass, what would you need to collect or contain to test where the matter went?",
+    "sources": [
+      {
+        "title": "DfE: KS3 chemistry and conservation of mass",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      }
+    ]
+  },
+  "physics": {
+    "kicker": "The rules underneath",
+    "headline": "Why things move. And why they stop.",
+    "intro": "A tank crossing mud, a phone lighting up and the Moon staying in orbit all follow physical rules. Physics helps us describe those rules and make predictions we can test.",
+    "question": "A heavy tank has wide tracks. Why might it cross soft ground more easily than a much lighter vehicle with narrow wheels?",
+    "idea": "Forces are interactions: pushes and pulls that can change motion or shape. Energy is a quantity we track as things change; it is transferred rather than used up. Models of forces, energy, matter and waves help explain events from a rolling ball to light arriving from a star.",
+    "use": "Physics makes everyday technology less mysterious. It helps you think about stopping distances, insulation, electricity bills, lenses and whether a dramatic movie stunt makes sense.",
+    "hooks": [
+      [
+        "Huge machine, surprisingly gentle footprint",
+        "Tracks spread weight over a larger contact area, reducing average ground pressure. Real mud and traction add more complications."
+      ],
+      [
+        "Recoil has a reason",
+        "When a gun pushes a projectile forwards, the projectile pushes the gun backwards. Forces come from interactions between objects."
+      ],
+      [
+        "Space is a silent cinema",
+        "Sound needs matter to travel through. Light can cross a vacuum, so a distant space explosion could be visible without its sound reaching you through empty space."
+      ]
+    ],
+    "activity": "Press a rectangular eraser or block gently into modelling clay on its broad face, then its narrow face. Predict the deeper mark. Try to keep the pushing force the same. Draw the contact areas and discuss what made this comparison imperfect.",
+    "twist": "If you doubled both the downward force and the contact area, what would happen to the average pressure?",
+    "parent": "Average pressure is force divided by area. Doubling both leaves it unchanged. Weight alone does not determine pressure. For the model, the challenge is applying the same force each time; noticing that limitation is good science.",
+    "misconception": "A moving object does not need a continuing forward force to keep moving at constant velocity. Everyday objects slow because interactions such as friction act on them.",
+    "science": "Which variable did you change, which did you try to keep the same, and how could you make the comparison fairer?",
+    "sources": [
+      {
+        "title": "DfE: KS3 physics, forces and pressure",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      }
+    ]
+  }
+}

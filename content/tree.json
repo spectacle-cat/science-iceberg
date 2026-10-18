@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "biology",
+    "title": "Biology",
+    "parent": null,
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-cells-organisation",
+    "title": "Cells & organisation",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-cells-organisation-plant-and-animal-cells",
+    "title": "Plant and animal cells",
+    "parent": "biology-cells-organisation",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-cells-organisation-microscopes-and-cell-structures",
+    "title": "Microscopes and cell structures",
+    "parent": "biology-cells-organisation",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-cells-organisation-diffusion-in-cells",
+    "title": "Diffusion in cells",
+    "parent": "biology-cells-organisation",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-cells-organisation-single-celled-organisms",
+    "title": "Single-celled organisms",
+    "parent": "biology-cells-organisation",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-cells-organisation-cells-tissues-organs-and-systems",
+    "title": "Cells, tissues, organs and systems",
+    "parent": "biology-cells-organisation",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-skeleton-muscles",
+    "title": "Skeleton & muscles",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-skeleton-muscles-what-the-skeleton-does",
+    "title": "What the skeleton does",
+    "parent": "biology-skeleton-muscles",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-skeleton-muscles-joints-and-opposing-muscles",
+    "title": "Joints and opposing muscles",
+    "parent": "biology-skeleton-muscles",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-skeleton-muscles-measuring-muscle-forces",
+    "title": "Measuring muscle forces",
+    "parent": "biology-skeleton-muscles",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-food-digestion",
+    "title": "Food & digestion",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-food-digestion-nutrients-and-a-balanced-diet",
+    "title": "Nutrients and a balanced diet",
+    "parent": "biology-food-digestion",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-food-digestion-food-energy-and-dietary-imbalance",
+    "title": "Food energy and dietary imbalance",
+    "parent": "biology-food-digestion",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-food-digestion-digestion-and-enzymes",
+    "title": "Digestion and enzymes",
+    "parent": "biology-food-digestion",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-food-digestion-gut-bacteria",
+    "title": "Gut bacteria",
+    "parent": "biology-food-digestion",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-food-digestion-plant-nutrition",
+    "title": "Plant nutrition",
+    "parent": "biology-food-digestion",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-breathing-gas-exchange",
+    "title": "Breathing & gas exchange",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-breathing-gas-exchange-lungs-and-gas-exchange",
+    "title": "Lungs and gas exchange",
+    "parent": "biology-breathing-gas-exchange",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-breathing-gas-exchange-breathing-and-pressure",
+    "title": "Breathing and pressure",
+    "parent": "biology-breathing-gas-exchange",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-breathing-gas-exchange-exercise-asthma-and-smoking",
+    "title": "Exercise, asthma and smoking",
+    "parent": "biology-breathing-gas-exchange",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-breathing-gas-exchange-stomata-and-leaf-gas-exchange",
+    "title": "Stomata and leaf gas exchange",
+    "parent": "biology-breathing-gas-exchange",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-reproduction",
+    "title": "Reproduction",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-reproduction-human-reproductive-systems",
+    "title": "Human reproductive systems",
+    "parent": "biology-reproduction",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-reproduction-gametes-and-fertilisation",
+    "title": "Gametes and fertilisation",
+    "parent": "biology-reproduction",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-reproduction-menstrual-cycle",
+    "title": "Menstrual cycle",
+    "parent": "biology-reproduction",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-reproduction-pregnancy-placenta-and-birth",
+    "title": "Pregnancy, placenta and birth",
+    "parent": "biology-reproduction",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-reproduction-flowers-and-pollination",
+    "title": "Flowers and pollination",
+    "parent": "biology-reproduction",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-reproduction-seeds-fruits-and-dispersal",
+    "title": "Seeds, fruits and dispersal",
+    "parent": "biology-reproduction",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-health-drugs",
+    "title": "Health & drugs",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-health-drugs-drugs-behaviour-and-life-processes",
+    "title": "Drugs, behaviour and life processes",
+    "parent": "biology-health-drugs",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-photosynthesis",
+    "title": "Photosynthesis",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-photosynthesis-reactants-products-and-word-equation",
+    "title": "Reactants, products and word equation",
+    "parent": "biology-photosynthesis",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-photosynthesis-leaves-and-their-adaptations",
+    "title": "Leaves and their adaptations",
+    "parent": "biology-photosynthesis",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-photosynthesis-sunlight-food-and-atmospheric-gases",
+    "title": "Sunlight, food and atmospheric gases",
+    "parent": "biology-photosynthesis",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-respiration",
+    "title": "Respiration",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-respiration-aerobic-respiration",
+    "title": "Aerobic respiration",
+    "parent": "biology-respiration",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-respiration-anaerobic-respiration-and-fermentation",
+    "title": "Anaerobic respiration and fermentation",
+    "parent": "biology-respiration",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-respiration-comparing-respiration-pathways",
+    "title": "Comparing respiration pathways",
+    "parent": "biology-respiration",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-ecosystems",
+    "title": "Ecosystems",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-ecosystems-food-webs-and-interdependence",
+    "title": "Food webs and interdependence",
+    "parent": "biology-ecosystems",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-ecosystems-pollination-and-food-security",
+    "title": "Pollination and food security",
+    "parent": "biology-ecosystems",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-ecosystems-environmental-changes-and-accumulating-toxins",
+    "title": "Environmental changes and accumulating toxins",
+    "parent": "biology-ecosystems",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-inheritance-evolution",
+    "title": "Inheritance & evolution",
+    "parent": "biology",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-inheritance-evolution-dna-genes-and-chromosomes",
+    "title": "DNA, genes and chromosomes",
+    "parent": "biology-inheritance-evolution",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-inheritance-evolution-evidence-and-the-discovery-of-dna-structure",
+    "title": "Evidence and the discovery of DNA structure",
+    "parent": "biology-inheritance-evolution",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-inheritance-evolution-inherited-and-environmental-variation",
+    "title": "Inherited and environmental variation",
+    "parent": "biology-inheritance-evolution",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-inheritance-evolution-measuring-variation",
+    "title": "Measuring variation",
+    "parent": "biology-inheritance-evolution",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-inheritance-evolution-species-and-natural-selection",
+    "title": "Species and natural selection",
+    "parent": "biology-inheritance-evolution",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "biology-inheritance-evolution-extinction-biodiversity-and-gene-banks",
+    "title": "Extinction, biodiversity and gene banks",
+    "parent": "biology-inheritance-evolution",
+    "subject": "biology",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry",
+    "title": "Chemistry",
+    "parent": null,
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-particles-states",
+    "title": "Particles & states",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-particles-states-solids-liquids-and-gases",
+    "title": "Solids, liquids and gases",
+    "parent": "chemistry-particles-states",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-particles-states-particle-motion-and-gas-pressure",
+    "title": "Particle motion and gas pressure",
+    "parent": "chemistry-particles-states",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-particles-states-changes-of-state",
+    "title": "Changes of state",
+    "parent": "chemistry-particles-states",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-atoms-compounds",
+    "title": "Atoms & compounds",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-atoms-compounds-the-simple-atomic-model",
+    "title": "The simple atomic model",
+    "parent": "chemistry-atoms-compounds",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-atoms-compounds-atoms-elements-and-compounds",
+    "title": "Atoms, elements and compounds",
+    "parent": "chemistry-atoms-compounds",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-atoms-compounds-symbols-and-formulae",
+    "title": "Symbols and formulae",
+    "parent": "chemistry-atoms-compounds",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-atoms-compounds-conservation-of-mass",
+    "title": "Conservation of mass",
+    "parent": "chemistry-atoms-compounds",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-mixtures-separation",
+    "title": "Mixtures & separation",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-mixtures-separation-pure-substances-and-mixtures",
+    "title": "Pure substances and mixtures",
+    "parent": "chemistry-mixtures-separation",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-mixtures-separation-dissolving-and-diffusion",
+    "title": "Dissolving and diffusion",
+    "parent": "chemistry-mixtures-separation",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-mixtures-separation-filtration-and-evaporation",
+    "title": "Filtration and evaporation",
+    "parent": "chemistry-mixtures-separation",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-mixtures-separation-distillation-and-chromatography",
+    "title": "Distillation and chromatography",
+    "parent": "chemistry-mixtures-separation",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-mixtures-separation-identifying-pure-substances",
+    "title": "Identifying pure substances",
+    "parent": "chemistry-mixtures-separation",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions",
+    "title": "Chemical reactions",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-rearranging-atoms-and-equations",
+    "title": "Rearranging atoms and equations",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-combustion-and-oxidation",
+    "title": "Combustion and oxidation",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-thermal-decomposition",
+    "title": "Thermal decomposition",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-displacement-reactions",
+    "title": "Displacement reactions",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-acids-alkalis-ph-and-indicators",
+    "title": "Acids, alkalis, pH and indicators",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-neutralisation-and-salts",
+    "title": "Neutralisation and salts",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-acids-reacting-with-metals",
+    "title": "Acids reacting with metals",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-chemical-reactions-catalysts",
+    "title": "Catalysts",
+    "parent": "chemistry-chemical-reactions",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-energy-in-chemistry",
+    "title": "Energy in chemistry",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-energy-in-chemistry-energy-changes-during-changes-of-state",
+    "title": "Energy changes during changes of state",
+    "parent": "chemistry-energy-in-chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-energy-in-chemistry-exothermic-and-endothermic-reactions",
+    "title": "Exothermic and endothermic reactions",
+    "parent": "chemistry-energy-in-chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-the-periodic-table",
+    "title": "The periodic table",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-the-periodic-table-mendeleev-and-organising-elements",
+    "title": "Mendeleev and organising elements",
+    "parent": "chemistry-the-periodic-table",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-the-periodic-table-groups-periods-and-reaction-patterns",
+    "title": "Groups, periods and reaction patterns",
+    "parent": "chemistry-the-periodic-table",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-the-periodic-table-metals-and-non-metals",
+    "title": "Metals and non-metals",
+    "parent": "chemistry-the-periodic-table",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-the-periodic-table-oxides-and-acidity",
+    "title": "Oxides and acidity",
+    "parent": "chemistry-the-periodic-table",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-materials",
+    "title": "Materials",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-materials-reactivity-series-and-carbon",
+    "title": "Reactivity series and carbon",
+    "parent": "chemistry-materials",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-materials-extracting-metals-from-oxides",
+    "title": "Extracting metals from oxides",
+    "parent": "chemistry-materials",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-materials-ceramics-polymers-and-composites",
+    "title": "Ceramics, polymers and composites",
+    "parent": "chemistry-materials",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-earth-atmosphere",
+    "title": "Earth & atmosphere",
+    "parent": "chemistry",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-earth-atmosphere-earth-structure-and-composition",
+    "title": "Earth structure and composition",
+    "parent": "chemistry-earth-atmosphere",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-earth-atmosphere-rocks-and-the-rock-cycle",
+    "title": "Rocks and the rock cycle",
+    "parent": "chemistry-earth-atmosphere",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-earth-atmosphere-limited-resources-and-recycling",
+    "title": "Limited resources and recycling",
+    "parent": "chemistry-earth-atmosphere",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-earth-atmosphere-what-is-in-the-atmosphere",
+    "title": "What is in the atmosphere",
+    "parent": "chemistry-earth-atmosphere",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "chemistry-earth-atmosphere-carbon-dioxide-and-climate",
+    "title": "Carbon dioxide and climate",
+    "parent": "chemistry-earth-atmosphere",
+    "subject": "chemistry",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics",
+    "title": "Physics",
+    "parent": null,
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-energy",
+    "title": "Energy",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-energy-energy-stores-and-conservation",
+    "title": "Energy stores and conservation",
+    "parent": "physics-energy",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-energy-energy-transfers",
+    "title": "Energy transfers",
+    "parent": "physics-energy",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-energy-food-fuels-and-energy-resources",
+    "title": "Food, fuels and energy resources",
+    "parent": "physics-energy",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-energy-power-appliances-and-energy-bills",
+    "title": "Power, appliances and energy bills",
+    "parent": "physics-energy",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-energy-heating-cooling-and-insulation",
+    "title": "Heating, cooling and insulation",
+    "parent": "physics-energy",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-energy-machines-work-and-movement",
+    "title": "Machines, work and movement",
+    "parent": "physics-energy",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-motion",
+    "title": "Motion",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-motion-speed-distance-and-time",
+    "title": "Speed, distance and time",
+    "parent": "physics-motion",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-motion-distance-time-graphs",
+    "title": "Distance-time graphs",
+    "parent": "physics-motion",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-motion-relative-motion",
+    "title": "Relative motion",
+    "parent": "physics-motion",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-forces",
+    "title": "Forces",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-forces-pushes-pulls-and-force-diagrams",
+    "title": "Pushes, pulls and force diagrams",
+    "parent": "physics-forces",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-forces-balanced-and-unbalanced-forces",
+    "title": "Balanced and unbalanced forces",
+    "parent": "physics-forces",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-forces-friction-and-drag",
+    "title": "Friction and drag",
+    "parent": "physics-forces",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-forces-springs-deformation-and-hooke-s-law",
+    "title": "Springs, deformation and Hooke\u2019s law",
+    "parent": "physics-forces",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-forces-turning-forces-and-moments",
+    "title": "Turning forces and moments",
+    "parent": "physics-forces",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-forces-non-contact-forces",
+    "title": "Non-contact forces",
+    "parent": "physics-forces",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-pressure-floating",
+    "title": "Pressure & floating",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-pressure-floating-force-area-and-pressure",
+    "title": "Force, area and pressure",
+    "parent": "physics-pressure-floating",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-pressure-floating-atmospheric-pressure",
+    "title": "Atmospheric pressure",
+    "parent": "physics-pressure-floating",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-pressure-floating-liquid-pressure-and-depth",
+    "title": "Liquid pressure and depth",
+    "parent": "physics-pressure-floating",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-pressure-floating-upthrust-floating-and-sinking",
+    "title": "Upthrust, floating and sinking",
+    "parent": "physics-pressure-floating",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-waves-sound",
+    "title": "Waves & sound",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-waves-sound-water-waves-reflection-and-superposition",
+    "title": "Water waves, reflection and superposition",
+    "parent": "physics-waves-sound",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-waves-sound-vibrations-and-sound-travelling",
+    "title": "Vibrations and sound travelling",
+    "parent": "physics-waves-sound",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-waves-sound-frequency-hearing-and-echoes",
+    "title": "Frequency, hearing and echoes",
+    "parent": "physics-waves-sound",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-waves-sound-waves-carrying-energy-and-information",
+    "title": "Waves carrying energy and information",
+    "parent": "physics-waves-sound",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-waves-sound-ultrasound-applications",
+    "title": "Ultrasound applications",
+    "parent": "physics-waves-sound",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-light",
+    "title": "Light",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-light-light-in-a-vacuum-and-through-materials",
+    "title": "Light in a vacuum and through materials",
+    "parent": "physics-light",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-light-reflection-scattering-and-absorption",
+    "title": "Reflection, scattering and absorption",
+    "parent": "physics-light",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-light-refraction-lenses-and-the-eye",
+    "title": "Refraction, lenses and the eye",
+    "parent": "physics-light",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-light-cameras-and-light-transferring-energy",
+    "title": "Cameras and light transferring energy",
+    "parent": "physics-light",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-light-colour-frequency-and-prisms",
+    "title": "Colour, frequency and prisms",
+    "parent": "physics-light",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-electricity",
+    "title": "Electricity",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-electricity-charge-current-and-circuits",
+    "title": "Charge, current and circuits",
+    "parent": "physics-electricity",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-electricity-series-and-parallel-circuits",
+    "title": "Series and parallel circuits",
+    "parent": "physics-electricity",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-electricity-potential-difference-and-resistance",
+    "title": "Potential difference and resistance",
+    "parent": "physics-electricity",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-electricity-conductors-and-insulators",
+    "title": "Conductors and insulators",
+    "parent": "physics-electricity",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-electricity-static-electricity-and-electric-fields",
+    "title": "Static electricity and electric fields",
+    "parent": "physics-electricity",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-magnetism",
+    "title": "Magnetism",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-magnetism-poles-and-magnetic-fields",
+    "title": "Poles and magnetic fields",
+    "parent": "physics-magnetism",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-magnetism-compasses-and-earth-s-field",
+    "title": "Compasses and Earth\u2019s field",
+    "parent": "physics-magnetism",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-magnetism-electromagnets-and-dc-motors",
+    "title": "Electromagnets and DC motors",
+    "parent": "physics-magnetism",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-matter",
+    "title": "Matter",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-matter-physical-versus-chemical-changes",
+    "title": "Physical versus chemical changes",
+    "parent": "physics-matter",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-matter-density-and-states-of-matter",
+    "title": "Density and states of matter",
+    "parent": "physics-matter",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-matter-brownian-motion-and-diffusion",
+    "title": "Brownian motion and diffusion",
+    "parent": "physics-matter",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-matter-particle-arrangements-and-the-ice-anomaly",
+    "title": "Particle arrangements and the ice anomaly",
+    "parent": "physics-matter",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-matter-temperature-and-internal-energy",
+    "title": "Temperature and internal energy",
+    "parent": "physics-matter",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-space",
+    "title": "Space",
+    "parent": "physics",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-space-mass-weight-and-gravity",
+    "title": "Mass, weight and gravity",
+    "parent": "physics-space",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-space-orbits-and-the-solar-system",
+    "title": "Orbits and the solar system",
+    "parent": "physics-space",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-space-stars-galaxies-and-light-years",
+    "title": "Stars, galaxies and light years",
+    "parent": "physics-space",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  },
+  {
+    "id": "physics-space-earth-s-tilt-seasons-and-day-length",
+    "title": "Earth\u2019s tilt, seasons and day length",
+    "parent": "physics-space",
+    "subject": "physics",
+    "source": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+  }
+]
