@@ -4,8 +4,8 @@
     "headline": "You are a very strange machine.",
     "intro": "You heal cuts, turn food into movement and carry instructions for building another human. Biology is the science of how living things work, survive and change.",
     "question": "A robot moves, uses energy and responds to its surroundings. So what makes you alive and the robot not?",
-    "idea": "Living things are made of cells. Inside those cells, chemical reactions keep them going. Organisms exchange materials with their surroundings, grow and reproduce across generations. Their inherited information influences how they develop. No single trick \u2014 like moving \u2014 is enough to define life.",
-    "use": "Biology helps you make sense of food, fitness, reproduction, ecosystems and claims about your body. It gives you better questions to ask when somebody says a product is \u201cnatural\u201d or promises to improve your health.",
+    "idea": "Living things are made of cells. Inside those cells, chemical reactions keep them going. Organisms exchange materials with their surroundings, grow and reproduce across generations. Their inherited information influences how they develop. No single trick — like moving — is enough to define life.",
+    "use": "Biology helps you make sense of food, fitness, reproduction, ecosystems and claims about your body. It gives you better questions to ask when somebody says a product is “natural” or promises to improve your health.",
     "hooks": [
       [
         "Built-in repair crew",
@@ -22,7 +22,7 @@
     ],
     "activity": "Draw a human, a tree and a robot. Give each arrows for what goes in and what comes out. Circle what they share, then argue about which differences actually matter. Paper and a pencil are enough.",
     "twist": "A seed can sit still for months. Is it alive? What evidence would change your mind?",
-    "parent": "Look for cells and life processes, rather than \u201cit moves\u201d. Trees and dormant seeds expose that shortcut. A robot can imitate some life processes without being a cellular organism. Viruses are a useful later boundary case; you do not need to settle them today.",
+    "parent": "Look for cells and life processes, rather than “it moves”. Trees and dormant seeds expose that shortcut. A robot can imitate some life processes without being a cellular organism. Viruses are a useful later boundary case; you do not need to settle them today.",
     "misconception": "Breathing and respiration are different: breathing moves air; respiration is the chemistry in cells that transfers energy from food.",
     "science": "What observation would help distinguish something alive from something merely moving?",
     "sources": [
@@ -36,7 +36,7 @@
     "kicker": "The material world",
     "headline": "Same atoms. Wildly different stuff.",
     "intro": "Rusting armour, cooking food and burning fuel all involve matter changing. Chemistry asks what things are made of, how their atoms are arranged and what happens when they react.",
-    "question": "A steel tank rusts. Has some of its metal simply disappeared \u2014 or has something joined it?",
+    "question": "A steel tank rusts. Has some of its metal simply disappeared — or has something joined it?",
     "idea": "Everything around you is made of atoms. Elements contain one type of atom; compounds have different types chemically joined. In an ordinary chemical reaction, atoms are rearranged into new substances. They are not created or destroyed, even when gases escape and the change looks mysterious.",
     "use": "Chemistry helps explain cooking, cleaning, batteries, fuels and why materials fail. It helps you distinguish a change of shape or state from the formation of a new substance.",
     "hooks": [
@@ -55,7 +55,7 @@
     ],
     "activity": "Use two colours of coins or paper circles as atoms. Build a few pretend molecules, then rearrange them into different groups without adding or removing any pieces. Count before and after. This models conservation of atoms, not which reactions are actually possible.",
     "twist": "An ice cube melts. A piece of iron rusts. Which makes a new substance, and how could you tell?",
-    "parent": "Rust contains iron combined with oxygen and other components, so iron has not vanished. A retained rust sample includes material from the surroundings; flakes falling away can complicate a real weighing. Listen for \u201catoms rearrange\u201d and for a distinction between a new substance and a new state.",
+    "parent": "Rust contains iron combined with oxygen and other components, so iron has not vanished. A retained rust sample includes material from the surroundings; flakes falling away can complicate a real weighing. Listen for “atoms rearrange” and for a distinction between a new substance and a new state.",
     "misconception": "Dissolving does not mean disappearing. Dissolved material is still present, even when you cannot see it.",
     "science": "If a reaction seems to lose mass, what would you need to collect or contain to test where the matter went?",
     "sources": [
@@ -95,6 +95,121 @@
       {
         "title": "DfE: KS3 physics, forces and pressure",
         "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      }
+    ]
+  },
+  "chemistry-particles-states-solids-liquids-and-gases": {
+    "kicker": "Chemistry · Particles & states",
+    "headline": "Why can you squeeze air, but barely squeeze water?",
+    "intro": "A solid keeps its own shape. A liquid flows but keeps roughly the same volume; a gas spreads through the available space. Tiny moving particles help explain these differences.",
+    "question": "Imagine two identical sealed syringes, without needles: one contains air, the other water. Which plunger would move further under the same gentle push? Predict why before opening the explanation.",
+    "idea": "Matter is made of particles, such as atoms or molecules. In a solid, neighbouring particles stay in fixed positions relative to each other, vibrating rather than sitting perfectly still. In a liquid, particles remain close but move past one another. In a gas, they are much further apart and move freely between collisions. Squeezing a gas mostly reduces the gaps; liquids and solids have much less space to close up.",
+    "use": "This explains why air can be compressed into a bicycle tyre and why liquids can transmit a push in hydraulic equipment. A liquid can flow without being easy to compress: those are different properties.",
+    "hooks": [
+      [
+        "A tyre is not full of nothing",
+        "Gas particles collide with the tyre walls, producing pressure. Invisible air still occupies space."
+      ],
+      [
+        "Pourable does not always mean liquid",
+        "Sand pours because solid grains move past each other. Each grain keeps its shape."
+      ],
+      [
+        "One substance, different arrangements",
+        "Ice and liquid water contain the same water molecules. Melting changes their arrangement and movement, not their identity."
+      ]
+    ],
+    "activity": "On paper, draw three boxes labelled solid, liquid and gas. Put twelve identical dots in each: tightly grouped in fixed positions, close but irregular, then widely spaced. Add arrows for vibration or movement. Now sketch each sample in a narrower container. Which sample changes shape, and which can also fit into much less volume? Keep all twelve dots.",
+    "twist": "Sand pours from a cup. Does that make it a liquid? What would you predict if you examined and gently pressed a single grain?",
+    "parent": "The air plunger moves further because gas particles have large gaps between them. The water is only slightly compressible; avoid claiming it cannot compress at all. For sand, distinguish the whole pile from its individual solid grains. Listen for explanations about spacing and movement, not particles shrinking. The drawing is a model: real particles are not pencil dots, and the gaps are not filled with air. Liquids also have attractions between particles. Do not use the regular solid drawing to claim every solid has a perfect crystal pattern.",
+    "misconception": "Particles in a solid are not motionless. They vibrate around positions even while the whole object stays still.",
+    "science": "How would you make the syringe comparison fair? Consider syringe size, starting volume, applied force and trapped air bubbles in the water.",
+    "sources": [
+      {
+        "title": "DfE: KS3 science curriculum",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      },
+      {
+        "title": "American Chemical Society: particle motion and liquid water",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter1/lesson1.html"
+      }
+    ]
+  },
+  "biology-cells-organisation-plant-and-animal-cells": {
+    "kicker": "Biology · Cells & organisation",
+    "headline": "A leaf and your cheek share a surprising toolkit.",
+    "intro": "Plants and animals are built from cells: tiny living units with structures that do particular jobs. Their cells share much of the same equipment, even though a tree and a person live very differently.",
+    "question": "A leaf cell can make sugar using light. Your cheek cells cannot. Would you expect the two cells to have completely different parts, or a shared toolkit with some extras?",
+    "idea": "Typical plant and animal cells both have a cell membrane controlling exchange, cytoplasm where many reactions happen, a nucleus containing genetic instructions, and mitochondria involved in aerobic respiration. Plant cells also have a cellulose cell wall outside the membrane, and many have a large permanent vacuole containing cell sap. Green leaf cells contain chloroplasts, where photosynthesis uses light to make sugars. Animal cells have no chloroplasts or cellulose cell walls.",
+    "use": "A cell is a useful starting point for understanding growth, food and living tissue. When a plant wilts, changes inside its cells help explain what you see outside; the whole plant is not simply a hollow pipe waiting to be filled.",
+    "hooks": [
+      [
+        "Plants need both toolkits",
+        "Leaf cells have mitochondria as well as chloroplasts. Making sugars does not remove the need for respiration."
+      ],
+      [
+        "Support from within",
+        "Water in a plant cell helps press its contents against the supporting wall. Losing water can make soft plant tissues droop."
+      ],
+      [
+        "No sunshine underground",
+        "Many root cells lack chloroplasts. They receive sugars made elsewhere in the plant."
+      ]
+    ],
+    "activity": "Draw a cheek cell and a green leaf cell side by side. Give both a membrane, cytoplasm, nucleus and mitochondria. Add a wall, large vacuole and chloroplasts to the leaf cell. Beside each label, write its job in your own words. Cover the labels and challenge each other to explain which shared parts both cells need and why.",
+    "twist": "A root cell has no chloroplasts. Is that enough evidence to call it an animal cell? What else would you look for?",
+    "parent": "Expect a shared toolkit with extras, not two unrelated designs. Chloroplasts explain the leaf cell’s ability to photosynthesise; mitochondria serve a different job and occur in both examples. For the root question, missing chloroplasts is not enough: a cellulose wall and a large vacuole support a plant identification. Listen for jobs as well as names. These are typical-cell drawings, not photographs or a rule that every cell contains every part. Specialised cells vary, and real shapes are more varied than boxes and circles. A nucleus stores instructions; it is not a tiny thinking brain.",
+    "misconception": "A plant cell has a membrane as well as a wall. The wall supports it; the membrane helps control what enters and leaves.",
+    "science": "If a microscope image shows no nucleus, does that prove the cell has none? How could focus, staining or the slice you are viewing affect the evidence?",
+    "sources": [
+      {
+        "title": "DfE: KS3 science curriculum",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      },
+      {
+        "title": "OpenStax Biology 2e: plant and animal cell structures",
+        "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells"
+      }
+    ]
+  },
+  "physics-energy-energy-stores-and-conservation": {
+    "kicker": "Physics · Energy",
+    "headline": "When a bouncing ball stops, where did its energy go?",
+    "intro": "Energy is a quantity we track when things change, measured in joules (J). It can be stored and transferred. Conservation means the total is unchanged when we include everything involved.",
+    "question": "Drop a ball and it bounces lower each time, eventually stopping. Has its energy been destroyed, or has it gone somewhere less obvious? Make a prediction.",
+    "idea": "A raised ball and Earth have a gravitational energy store. As the ball falls, that store decreases and the moving ball’s kinetic store increases. During impact, deformation briefly increases elastic stores. Some energy returns to the bounce; some increases thermal stores in the ball, floor and surroundings, with some carried away by sound. The bounce gets smaller because less energy returns to lifting the ball, not because energy ceases to exist.",
+    "use": "Tracking energy helps explain why brakes warm up and why insulation reduces the energy needed to keep a home warm. Energy spread through the surroundings is often less useful for the job we wanted, even though it still exists.",
+    "hooks": [
+      [
+        "Braking leaves a clue",
+        "A bicycle slows as energy shifts from its kinetic store, increasing thermal stores in brakes and surroundings."
+      ],
+      [
+        "Food is part of the account",
+        "Your body can transfer energy from chemical stores as you lift something, increasing its gravitational store and warming the surroundings."
+      ],
+      [
+        "A battery is not an energy factory",
+        "A battery’s chemical store decreases as it transfers energy electrically to a circuit. Energy is supplied, not created."
+      ]
+    ],
+    "activity": "Drop a small bouncy ball from about 30 cm onto a clear floor. Hold a ruler beside the bounce path and estimate the first rebound height. Repeat from the same height without throwing. Draw four pictures: held up, falling, squashed on impact, and at the rebound’s highest point. Label the stores that increase or decrease. Include the floor and air in your drawing.",
+    "twist": "Suppose a ball bounced higher than its release height. Would that automatically disprove conservation, or could something else have supplied energy? Invent one possible explanation.",
+    "parent": "For the opening question, track the surroundings as well as the ball. The tiny warming from one drop may be too small to feel: that does not mean the energy vanished. For a higher bounce, a moving surface or an extra push could supply energy; the ball alone is not an isolated system. Listen for a complete account of where energy starts and ends. Stores are a bookkeeping model, not little containers of a substance. Sound and electrical transfer describe ways energy travels, rather than extra permanent stores. Height estimates show a pattern but do not measure all the transferred energy.",
+    "misconception": "“Energy used up” usually means energy has become less available for a useful task. It does not mean the total energy has been destroyed.",
+    "science": "How much do your rebound estimates vary over three drops? Would slow-motion video beside the ruler improve the evidence, and what might still be uncertain?",
+    "sources": [
+      {
+        "title": "DfE: KS3 science curriculum",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      },
+      {
+        "title": "Institute of Physics: shifting energy between stores",
+        "url": "https://spark.iop.org/collections/shifting-energy-between-stores-physics-narrative"
+      },
+      {
+        "title": "US Energy Information Administration: conservation of energy",
+        "url": "https://www.eia.gov/energyexplained/what-is-energy/laws-of-energy.php"
       }
     ]
   }
