@@ -212,5 +212,128 @@
         "url": "https://www.eia.gov/energyexplained/what-is-energy/laws-of-energy.php"
       }
     ]
+  },
+  "biology-cells-organisation": {
+    "kicker": "Biology · Cells & organisation",
+    "headline": "How do tiny cells keep a whole body going?",
+    "intro": "A heart looks like one solid object, but it contains living cells doing different jobs. Cells are the basic units of life; organisation connects their small-scale work to what a whole organism can do.",
+    "question": "Imagine a heart made entirely of muscle cells, with no other kinds of cell. Would being able to squeeze be enough to make it a working pump? Predict what might be missing.",
+    "idea": "In a many-celled organism, specialised cells have structures suited to particular jobs. Groups of cells working together form tissues. Different tissues combine into organs, such as the heart; organs cooperate in systems, such as the circulatory system that moves blood around your body. Heart muscle contracts, but the organ also needs supporting tissues and a lining. Cells themselves contain smaller structures: a membrane controls exchange, and chemical reactions take place inside. Living cells need supplies and must remove wastes.",
+    "use": "This helps explain why a problem in one organ can affect distant parts of the body. It also makes microscope pictures meaningful: a tissue sample reveals the small living structures behind the organ’s larger job.",
+    "hooks": [
+      [
+        "One cell can be enough",
+        "A bacterium is a whole single-celled organism. It carries out life processes without having a heart, lungs or other organs."
+      ],
+      [
+        "A leaf is an organ too",
+        "Plants also have specialised cells and tissues. A leaf combines tissues involved in capturing light, exchanging gases and transporting materials."
+      ],
+      [
+        "An invisible journey",
+        "Oxygen can cross cell membranes by diffusion: its net movement is from higher to lower concentration. Circulating blood brings supplies close to body cells."
+      ]
+    ],
+    "activity": "With paper and pencil, draw five frames: a heart muscle cell, heart muscle tissue, a heart, the circulatory system, and a person. Link them with arrows labelled “is part of”. Add a job beneath each frame. In the heart frame, add a lining and supporting tissue. Take turns explaining why simply adding more muscle cells would not replace those jobs.",
+    "twist": "A bacterium has no tissues or organs. Does that mean it is only part of an organism, or could it be a complete living thing?",
+    "parent": "For the opening prediction, squeezing alone is insufficient: a useful pump needs an organised structure, including chambers, a lining and valves that help prevent backflow. Different tissues contribute different properties. Listen for “different jobs working together”, rather than just “more cells”. For the twist, one cell can be a complete organism; the tissue–organ–system ladder describes complex many-celled bodies, not a requirement for all life. The drawing shows levels of organisation, not stages through which one cell grows into a heart. Its frames are not to scale. Cells are active living units, unlike passive building bricks.",
+    "misconception": "An organ is not one enormous cell. It contains multiple tissue types, each made from cells and often materials those cells produce.",
+    "science": "Two microscope photographs show cells at different apparent sizes. How could you tell whether the cells really differ in size? Look for scale bars: picture size alone is not a measurement.",
+    "sources": [
+      {
+        "title": "DfE: KS3 cells and organisation",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      },
+      {
+        "title": "OpenStax: levels of organisation in the human body",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-2-structural-organization-of-the-human-body"
+      },
+      {
+        "title": "OpenStax: cells and microscopy",
+        "url": "https://openstax.org/books/biology-2e/pages/4-1-studying-cells"
+      }
+    ]
+  },
+  "chemistry-particles-states": {
+    "kicker": "Chemistry · Particles & states",
+    "headline": "A puddle vanishes. Its particles do not.",
+    "intro": "Water can be ice, a flowing liquid or an invisible gas. The particle model connects those familiar changes to things too small to see: how particles move, how far apart they are and how they interact.",
+    "question": "A shallow puddle dries on a cool day, without boiling. Where would you predict its water has gone: destroyed, soaked into the ground, or somewhere else? Imagine the puddle is on waterproof plastic.",
+    "idea": "Water molecules can escape from the liquid surface into the air: evaporation happens below boiling temperature. The water becomes water vapour, a gas. In solids, particles vibrate around fixed positions; in liquids, they stay close while moving past each other; in gases, they move freely between collisions and are much further apart. Heating can increase particle motion or change their arrangement during a change of state. The molecules remain water molecules through melting, freezing, evaporation and condensation.",
+    "use": "This helps explain drying clothes, a fogged mirror and why a cold drink collects droplets outside its glass. The same model also explains gas pressure: moving particles collide with surfaces. It links everyday observations to a common set of ideas.",
+    "hooks": [
+      [
+        "A bathroom mirror makes water visible",
+        "Water vapour in air can condense on a cold surface. The droplets are liquid water, not water leaking through the mirror."
+      ],
+      [
+        "A gas can push",
+        "Air particles striking the inside of a balloon exert pressure. The particles are moving even when the balloon looks still."
+      ],
+      [
+        "Cold days still dry clothes",
+        "Evaporation does not require boiling. Temperature, moving air and humidity affect how quickly water leaves a wet surface."
+      ]
+    ],
+    "activity": "Put a few drops of water on a waterproof plate. Draw its outline on paper and predict what will happen over the next twenty minutes; complete drying may take longer. Sketch a close-up of the liquid surface with some water molecules escaping into air. Later, compare your prediction with the plate. Explain what you observed separately from what your particle drawing proposes.",
+    "twist": "Droplets appear outside a sealed cold bottle. Must the bottle be leaking? Where else could those water molecules have come from?",
+    "parent": "For the puddle, evaporation moves water into the surrounding air; waterproof plastic rules out soaking through. For the bottle, water vapour already in the air can condense against the cold surface. Listen for water changing location and state, rather than being destroyed or turning into air. A drawing is an explanatory model, not something you directly observed. Do not draw gas gaps filled with more air when modelling a pure gas. In melting, particles do not themselves melt or grow. Heating does not always raise temperature: during a phase change, energy can change particle arrangements instead.",
+    "misconception": "The visible white cloud near a kettle is tiny liquid droplets. Water vapour itself is invisible.",
+    "science": "A smaller wet patch supports evaporation, but does not directly show molecules. What comparison would help rule out absorption or a spill as the explanation?",
+    "sources": [
+      {
+        "title": "DfE: KS3 physics, forces and pressure",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      },
+      {
+        "title": "American Chemical Society: particle motion and temperature",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html"
+      },
+      {
+        "title": "American Chemical Society: evaporation",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson2.html"
+      }
+    ]
+  },
+  "physics-energy": {
+    "kicker": "Physics · Energy",
+    "headline": "A torch lights the room. What changes elsewhere?",
+    "intro": "Energy connects food, fuels, movement, heating and electricity. Tracking where it is stored and how it is transferred helps us explain what a device does, what it needs and why it eventually stops.",
+    "question": "Imagine a battery torch left shining until it goes dark. Has the energy disappeared, or would you expect changes in the battery, torch and room? Predict which things might warm up.",
+    "idea": "The battery’s chemical energy store decreases as energy is transferred electrically through the circuit. Light carries energy away; absorbed light increases thermal stores in the surroundings. The torch also warms. Energy is conserved when the whole account includes the surroundings. Useful changes can involve kinetic stores of moving objects, gravitational stores of raised objects, elastic stores of stretched objects or thermal stores. Energy transfers can happen through heating, electrical currents, forces moving objects, and radiation such as light.",
+    "use": "Energy accounts help compare appliances and understand why insulation matters. Power tells us how quickly energy is transferred: one watt means one joule per second. A powerful appliance used briefly can transfer less energy overall than a lower-power appliance left on for hours.",
+    "hooks": [
+      [
+        "Lunch can lift a backpack",
+        "Your body transfers energy from chemical stores as you lift a bag. Its gravitational store increases, and your body and surroundings also warm."
+      ],
+      [
+        "Insulation buys time",
+        "Insulation slows energy transfer between warmer and cooler places. It does not supply an endless source of warmth."
+      ],
+      [
+        "Useful depends on the job",
+        "Warming is useful in a heater. Warming a torch casing is usually an unwanted transfer when the aim is illumination."
+      ]
+    ],
+    "activity": "Draw a battery torch inside a larger box labelled room. Add arrows showing electrical transfer within the torch, light leaving it and heating of its surroundings. Label the starting chemical store and final thermal stores. Now imagine two devices: one transfers 10 joules each second for 20 seconds, the other 5 joules each second for 60 seconds. Predict which transfers more energy, then multiply to check.",
+    "twist": "If energy is never destroyed, why do we need fresh batteries or more food? Could the energy spread around the room simply do the same job again?",
+    "parent": "The opening account should include the battery, torch and room. A tiny temperature rise can be real without being noticeable by touch. For the twist, energy spread among the surroundings is less available for the desired job; conservation does not promise endless reuse. Fresh batteries provide an accessible chemical store. The calculation gives 200 J and 300 J: duration matters as well as power. Listen for a distinction between how much energy and how quickly it moves. Stores and arrows are bookkeeping tools, not containers and pipes of an invisible substance. Light is a transfer pathway in this model, not a permanent store.",
+    "misconception": "Energy and power are not interchangeable. Joules measure an amount of energy; watts measure the rate of transfer.",
+    "science": "How could you compare two torches fairly? Consider brightness, starting battery condition and operating time before deciding what “better” means.",
+    "sources": [
+      {
+        "title": "DfE: KS3 physics, forces and pressure",
+        "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#key-stage-3"
+      },
+      {
+        "title": "Institute of Physics: energy stores and transfers",
+        "url": "https://spark.iop.org/collections/shifting-energy-between-stores-physics-narrative"
+      },
+      {
+        "title": "US Energy Information Administration: what is energy?",
+        "url": "https://www.eia.gov/energyexplained/what-is-energy/"
+      }
+    ]
   }
 }
