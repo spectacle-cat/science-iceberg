@@ -29,3 +29,19 @@ Ticks mean “we explored this”, not mastery. Ticking a parent does not tick d
 Three root cards introduce science with discussion prompts, revealable explanations, real applications, optional activities and parent guidance. All other pages deliberately remain empty. Scientific thinking is embedded in the card contract across all three subjects. The curriculum source is linked from the atlas and each tree node.
 
 The site uses plain HTML/CSS/JS with SVG iceberg illustrations. It needs no model, API, database or server at runtime. Web fonts use Google Fonts with local system fallbacks. Generated text is HTML-escaped. The builder and checker validate structure, topic relationships and internal links; scientific content still needs editorial review.
+
+## GitHub backup and Pages
+
+GitHub remote: https://github.com/spectacle-cat/science-iceberg
+
+The repository includes the source, generation skill, curriculum tree and generated static pages. It does not include browser progress; export that separately using Your progress.
+
+After GitHub authentication, push from this project directory:
+
+```sh
+git push -u origin main
+```
+
+To enable the optional GitHub Pages mirror, select **Settings → Pages → Build and deployment → Source: GitHub Actions** in the GitHub repository. The `Publish science atlas` workflow builds and checks the site on pushes to `main`; it can also be started manually from the Actions tab. After successful deployment the expected address is https://spectacle-cat.github.io/science-iceberg/ . It is not live merely because the workflow exists.
+
+All site links are relative, so the repository subpath is supported. The original ChatGPT Sites publication is separate; pushing to GitHub does not republish that URL. Progress is stored separately for each hostname; use export/import to transfer it between the two sites.
